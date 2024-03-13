@@ -1,0 +1,2019 @@
+fileFormatVersion: 2
+guid: 7a419c00f7f26f44990ec59b8da98cbc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickup_Oneshot
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0161623f27b055478472f877d2fe65b
+      internalID: -1085047795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Front_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986421734ebc97a4fb8e9f8ffb70b832
+      internalID: 1988466501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Front_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc810f1028b53d344bfb139fd7579be8
+      internalID: 96715416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Front_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6539a6cb4ec84cb7fe9ce3e615b07
+      internalID: -1087250630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Front_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3a556a6a1b80418dba751b6c33dc8
+      internalID: -815414075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Front_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6b46a1d4321049926f2c04c675a90
+      internalID: 24728046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Front_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d592cc01c5144f8fb5469ca58612d
+      internalID: -197987822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Front_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad867c3c8260494cbf1eb82da697ae8
+      internalID: -1252439440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Front_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1472
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed838070798cd5d4da9f577eb3e75b4f
+      internalID: -297267253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Rico
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bac00c4e46e9c449276e20e2a562a5
+      internalID: 782592612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Firerate
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bc24af834c0de4ca3f6efc6ab22ad1
+      internalID: 86002899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Shotspeed
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77798c31b3b8734287642303eefb690
+      internalID: -1371378015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Spread
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d4dd3be6b6dc49bfecb5b80f500b7
+      internalID: -1582127100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Empty
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1439
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b1cd10e0bf5a4c9107f93ec9b164d
+      internalID: 1836025521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71c8ca93602a0448598dfc2a3d715f
+      internalID: 1236725364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0c7919e41cdf45be6a7a86d5369ff
+      internalID: 1259910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7944d44dba9fc144bff03cd1ac68b60
+      internalID: -830823340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Side_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de17c15e6a4edee42aafdd2e31533206
+      internalID: -1997548578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Side_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59fdc2223063744fb71ce0a6a30d823
+      internalID: 1286572597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Side_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d514c41b982e4abd023e4afac4816
+      internalID: -27223210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Side_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b37bbd19bcb594388b1aa7323695e1
+      internalID: -539916750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Side_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1400
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e760bc0978f04bae5116258035c9f
+      internalID: -1757338220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP_Full
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1343
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4ec438c54ce24e82122d907a6f536
+      internalID: -2026515648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP_Empty
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1343
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1aad15978402b41bca9077407539c7
+      internalID: 1053484404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Player
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1394
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e741469b1fa024295738da6807883b
+      internalID: 100300327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_Enemy
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1394
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1da35746c9c84c879d6eea57fb7b7
+      internalID: -250857997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Back_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e4786fa563734e9b61833aeabb3ec
+      internalID: -2046220872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Back_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd901226607d748a9019c9f5f36619
+      internalID: 1074413087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Back_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be9490a024bde449a43323ac7fdb7c
+      internalID: -1089002038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_Back_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bf06157e710544daee83dbc010d196
+      internalID: -2025143764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Back_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15e7899cd93654691b051e26e86e0b
+      internalID: 1502469707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Back_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d840521d23ab488951133a687f9e2
+      internalID: -490436599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Back_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdefd201e631e4f46b339a9fdf70a5df
+      internalID: -1728299362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_Back_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1328
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a5910cd653234e803cc0fe0b105ae
+      internalID: -1935324462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_BackSide_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bd605fd491e347af83eb87e9528eb
+      internalID: 1995503579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_BackSide_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9041bab292f7d54997971fb7762caef
+      internalID: -267520759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_BackSide_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f11f29947053a4f97ca8c1ec5f6e4f
+      internalID: -857773549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle_BackSide_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56abd5ea68c542489b8703fa56e383e
+      internalID: 1053923418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_BackSide_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50935016716793042ab035dff54e905d
+      internalID: 1471330835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_BackSide_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004815b12a7d044084eb43c82ce9683
+      internalID: -533457758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_BackSide_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9d89343faf5142b3d4e6b1c525536
+      internalID: 1368725493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Idle_BackSide_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1256
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd1e1c6061ba04980d5b2233615453
+      internalID: 576910776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Front_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080e2a2eb3130c4ea973ff90a355c7a
+      internalID: -1229079780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Front_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863f4fca2154b240bb022eadbade932
+      internalID: 1268668828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Front_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8307deab25044d825e74cb7f298e6
+      internalID: 1296767607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Front_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ccf309e5e59404eb467e1e1fe5b779
+      internalID: 414318693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Front_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e873ee3afe613e47b4eee7ff0ec02dd
+      internalID: -682949351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Front_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a799d5c9125f74fb489e1188ac0f1f
+      internalID: 1639649113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Front_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f55e78d93ca20d488efd904056f5d46
+      internalID: -1365948541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Front_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1112
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315fc2d4ac820540bd876d891408281
+      internalID: 1174206647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Side_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52115679460fcc4fa95e47a80ab65bb
+      internalID: 27956798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Side_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803173374a1880140a01f4add2ba5f1a
+      internalID: 90750945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Side_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca4e20a4d505004ca8b2011191c8661
+      internalID: 1975278706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Side_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e8e877420f024b9f2c64e0344294d
+      internalID: -945566453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Side_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c0d25c5c68604f9e8183c26f62094
+      internalID: 174852954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Side_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f639cab49d16f4d819f7ae4e642f64
+      internalID: -2056540377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Side_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14412f3d743c544a28094ab396ad93
+      internalID: -1135521383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Side_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1040
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4040fc6b32c2b3448b7b8f2ebf65f0ac
+      internalID: 332320140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Back_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae76bd45220f9340a0df792a08739e0
+      internalID: 330371096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Back_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a815db00e44740933d20d0f6feb24
+      internalID: -375959170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Back_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df76ee97aca2514085af3ee518261ab
+      internalID: 855172665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_Back_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e5ddc55525fa34480088dd0f3792ea
+      internalID: 969848047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Back_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15d3e23dab6d24489cf400c566e57e
+      internalID: -1558254293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Back_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025ac40e3e452244a9de4e237d1c52dc
+      internalID: -448382962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Back_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dbb7d26def9da47ac4cf3eec00bdab
+      internalID: 22176998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_Back_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 968
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b92c1b7b9db045813ed3f087e3448
+      internalID: -300182780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_BackSide_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26781075d1f6b164ebc92c44400d6f14
+      internalID: -632986299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_BackSide_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb0d26a46cbd340993ee28994abed2
+      internalID: 815114315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_BackSide_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b04d64da61bb4f97b812ecfd6b1eb
+      internalID: -716987128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_BackSide_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3dbe962c0b7ba44a9857c36a574c87
+      internalID: 1173172649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_BackSide_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686cd0bb1eb761458c42141d7437fb9
+      internalID: -1008045347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_BackSide_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8b139272f17746ab39d17ebdfd3f5
+      internalID: -222866786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Front_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 755
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f66d224a820848b77ed7bbab83dee
+      internalID: 1823941489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Front_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 755
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69251454b82334e92bbd4e984369cb
+      internalID: 2122603668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Side_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 680
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19d3fd9921d054b8c45ece270f56d3
+      internalID: 1176569709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Side_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 680
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eaad8ae56da164a8abd56726addc7c
+      internalID: -566387808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Back_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 611
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b7da0bf53efef4aab6a8069f1116d0
+      internalID: 1844789568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_Back_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 611
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64ac9605e9ae349ab8a8761e530105
+      internalID: -800225384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_BackSide_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 536
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198224d1fc561ed4cbedc7b506916a93
+      internalID: 1684655678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash_BackSide_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 536
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b8709b774b4e4c965980aea331430
+      internalID: 1016856845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Walk_BackSide_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82feb4faaab28ff45a7951ea94e028b4
+      internalID: -1299671334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Walk_BackSide_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 896
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f8b01fde6fdf4782b6b674194d0af
+      internalID: -819774563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bullet_Enemy: -250857997
+      Bullet_Player: 100300327
+      Dash_BackSide_1: 1684655678
+      Dash_BackSide_2: 1016856845
+      Dash_Back_1: 1844789568
+      Dash_Back_2: -800225384
+      Dash_Front_1: 1823941489
+      Dash_Front_2: 2122603668
+      Dash_Side_1: 1176569709
+      Dash_Side_2: -566387808
+      E_Idle_BackSide_1: 1471330835
+      E_Idle_BackSide_2: -533457758
+      E_Idle_BackSide_3: 1368725493
+      E_Idle_BackSide_4: 576910776
+      E_Idle_Back_1: 1502469707
+      E_Idle_Back_2: -490436599
+      E_Idle_Back_3: -1728299362
+      E_Idle_Back_4: -1935324462
+      E_Idle_Front_1: 24728046
+      E_Idle_Front_2: -197987822
+      E_Idle_Front_3: -1252439440
+      E_Idle_Front_4: -297267253
+      E_Idle_Side_1: 1286572597
+      E_Idle_Side_2: -27223210
+      E_Idle_Side_3: -539916750
+      E_Idle_Side_4: -1757338220
+      E_Walk_BackSide_1: 1173172649
+      E_Walk_BackSide_2: -819774563
+      E_Walk_BackSide_3: -1008045347
+      E_Walk_BackSide_4: -222866786
+      E_Walk_Back_1: -1558254293
+      E_Walk_Back_2: -448382962
+      E_Walk_Back_3: 22176998
+      E_Walk_Back_4: -300182780
+      E_Walk_Front_1: -682949351
+      E_Walk_Front_2: 1639649113
+      E_Walk_Front_3: -1365948541
+      E_Walk_Front_4: 1174206647
+      E_Walk_Side_1: 174852954
+      E_Walk_Side_2: -2056540377
+      E_Walk_Side_3: -1135521383
+      E_Walk_Side_4: 332320140
+      HP_Empty: 1053484404
+      HP_Full: -2026515648
+      P_Idle_BackSide_1: 1995503579
+      P_Idle_BackSide_2: -267520759
+      P_Idle_BackSide_3: -857773549
+      P_Idle_BackSide_4: 1053923418
+      P_Idle_Back_1: -2046220872
+      P_Idle_Back_2: 1074413087
+      P_Idle_Back_3: -1089002038
+      P_Idle_Back_4: -2025143764
+      P_Idle_Front_1: 1988466501
+      P_Idle_Front_2: 96715416
+      P_Idle_Front_3: -1087250630
+      P_Idle_Front_4: -815414075
+      P_Idle_Side_1: 1236725364
+      P_Idle_Side_2: 1259910044
+      P_Idle_Side_3: -830823340
+      P_Idle_Side_4: -1997548578
+      P_Walk_BackSide_1: -632986299
+      P_Walk_BackSide_2: -1299671334
+      P_Walk_BackSide_3: 815114315
+      P_Walk_BackSide_4: -716987128
+      P_Walk_Back_1: 330371096
+      P_Walk_Back_2: -375959170
+      P_Walk_Back_3: 855172665
+      P_Walk_Back_4: 969848047
+      P_Walk_Front_1: -1229079780
+      P_Walk_Front_2: 1268668828
+      P_Walk_Front_3: 1296767607
+      P_Walk_Front_4: 414318693
+      P_Walk_Side_1: 27956798
+      P_Walk_Side_2: 90750945
+      P_Walk_Side_3: 1975278706
+      P_Walk_Side_4: -945566453
+      Pickup_Empty: 1836025521
+      Pickup_Firerate: 86002899
+      Pickup_Oneshot: -1085047795
+      Pickup_Rico: 782592612
+      Pickup_Shotspeed: -1371378015
+      Pickup_Spread: -1582127100
+      Sprite Sheet_0: -1180698006
+      Sprite Sheet_10: 483866929
+      Sprite Sheet_100: -1851274642
+      Sprite Sheet_102: -1844066268
+      Sprite Sheet_104: -1401738006
+      Sprite Sheet_108: -1145364390
+      Sprite Sheet_11: 1933890644
+      Sprite Sheet_110: 116809101
+      Sprite Sheet_114: -1313470354
+      Sprite Sheet_115: 900034287
+      Sprite Sheet_117: -242175374
+      Sprite Sheet_119: -198238089
+      Sprite Sheet_120: -1249236104
+      Sprite Sheet_122: -337604678
+      Sprite Sheet_123: 446491818
+      Sprite Sheet_125: 945259063
+      Sprite Sheet_127: 1726230161
+      Sprite Sheet_129: 920110101
+      Sprite Sheet_13: 99838833
+      Sprite Sheet_130: 856008734
+      Sprite Sheet_132: -552676135
+      Sprite Sheet_133: -1290858343
+      Sprite Sheet_135: 41149955
+      Sprite Sheet_137: 1821936518
+      Sprite Sheet_139: 1373999420
+      Sprite Sheet_14: 2000983160
+      Sprite Sheet_141: -1816292560
+      Sprite Sheet_143: -1112361444
+      Sprite Sheet_145: -1945178700
+      Sprite Sheet_15: -644867586
+      Sprite Sheet_17: -1890732804
+      Sprite Sheet_19: 2102367959
+      Sprite Sheet_2: 781241588
+      Sprite Sheet_21: 1377395484
+      Sprite Sheet_22: -462590682
+      Sprite Sheet_24: -310022851
+      Sprite Sheet_3: -685300608
+      Sprite Sheet_31: 66236202
+      Sprite Sheet_34: -1287823874
+      Sprite Sheet_36: -991701683
+      Sprite Sheet_38: -1565943146
+      Sprite Sheet_4: -2078870648
+      Sprite Sheet_41: -348349710
+      Sprite Sheet_43: -512571806
+      Sprite Sheet_44: -76216310
+      Sprite Sheet_49: -1130640599
+      Sprite Sheet_51: 1351782496
+      Sprite Sheet_53: 1742686408
+      Sprite Sheet_55: -1888905354
+      Sprite Sheet_56: 1773484764
+      Sprite Sheet_58: 1972031543
+      Sprite Sheet_59: 1767422704
+      Sprite Sheet_6: 1829829731
+      Sprite Sheet_61: -1199558777
+      Sprite Sheet_63: -1934333008
+      Sprite Sheet_65: 1735248354
+      Sprite Sheet_66: 559110760
+      Sprite Sheet_68: 1718062957
+      Sprite Sheet_69: -132828556
+      Sprite Sheet_72: -531671090
+      Sprite Sheet_74: -1421263591
+      Sprite Sheet_76: 798808138
+      Sprite Sheet_79: 99521614
+      Sprite Sheet_8: 1749143275
+      Sprite Sheet_81: 755402174
+      Sprite Sheet_83: 1848145666
+      Sprite Sheet_85: -154699335
+      Sprite Sheet_86: -371321892
+      Sprite Sheet_88: 1750498058
+      Sprite Sheet_90: 1281006543
+      Sprite Sheet_92: 818179588
+      Sprite Sheet_93: 1907714664
+      Sprite Sheet_95: -1341174085
+      Sprite Sheet_96: -1289048237
+      Sprite Sheet_98: 2078817136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
