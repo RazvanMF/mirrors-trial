@@ -3,3 +3,5 @@
 
  Code was done by yours truly. 
  The animations and sprites were done by my friend and teammate KiriDraws.
+
+ Game can be played at: https://razvanmf.itch.io/mirrors-trail
